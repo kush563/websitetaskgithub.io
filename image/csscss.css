@@ -1,0 +1,121 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  /*color changer css*/
+  
+  .btn {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#white {
+    background-color: rgb(232, 235, 238);
+}
+
+#black {
+    background-color: black;
+}
+
+#blue {
+    background-color: blue;
+
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+#color-switcher {
+    text-align: right;
+
+}
+img{
+    float: right;
+    height: 450px;
+    margin-top: -240px;
+}
+.head{
+    margin-top: 180px;
+    margin-left: 60px;
+
+}
+button{
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px,30px;
+    border-radius: 50px;
+    transition: 0.53;
+    border: 2px, solid black;
+    text-decoration: none;
+    background-color: #f3a513;
+
+}
+#line{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.box{
+    height: 1000px;
+    background-color: red;
+}
+#counter-section-container {
+  width: 100%;
+  text-align: center;
+}
+
+#counter-box-container {
+  /*border: 1px solid #999999;*/
+  overflow: hidden;
+  display: inline-block;
+}
+
+#counter-box {
+  /*width: 33.22%;*/
+  width: 300px;
+  min-width: 200px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+  float: left;
+  text-align: center;
+  /*background-color: #111111;*/
+  color: #cccccc;
+  /*border: 1px solid #666666;*/
+}
+
+.counter {
+  font-size: 50px;
+  color:#cccccc;
+}
+

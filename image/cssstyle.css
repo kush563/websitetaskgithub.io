@@ -1,0 +1,96 @@
+#shivam{
+    margin-left: 30px;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+#shiv{
+    margin-left: 30px;
+    font-weight: bold;
+    
+}
+#hlo{
+    margin-left: 30px;
+    font-weight: bold;
+    
+
+}
+#hiii{
+    margin-left: 30px;
+    font-weight: bold;
+    
+
+}
+#hllo{
+    margin-left: 50px;
+    font-style: normal;
+    font-weight: bold;
+    
+
+}
+#shivam:hover{
+   border: 0.5px solid black;
+   background: rgb(142, 142, 238);
+   
+}
+#shiv:hover{
+    border: 0.5px solid black;
+    background: rgb(142, 142, 238);
+    
+ }
+ #hlo:hover{
+    border: 0.5px solid black;
+    background: rgb(142, 142, 238);
+    
+ }
+ #hiii:hover{
+    border: 0.5px solid black;
+    background: rgb(142, 142, 238);
+    
+ }
+ #shiva:hover{
+    border: 0.5px solid black;
+    background: rgb(142, 142, 238);
+    
+ }
+ #shiva{
+    font-weight: bold; 
+
+    
+ }
+ #line{
+     text-align: center;
+     font-size: 50px;
+     font-weight: bold;
+     margin-top: 50px;
+ }
+ #lin{
+     border: 2px #ba9041;
+     border-left: 380px;
+     border-right: 280px;
+ }
+ .para{
+     margin-top: 80px;
+     margin-left: 70px;
+     margin-right: 80px;
+ }
+ body{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Courier New', Courier, monospace;
+ }
+ #imge{
+     margin-left: -119px;
+     border-left: 30px solid;
+     color: #a28245;
+     border-top: 30px #a28245 solid;
+ }
+     
+ 
+
+
+
+
+
+ 

@@ -1,0 +1,16 @@
+.container{
+   border: 8px;
+   border-color: red;
+   border-radius: solid;
+    
+}*/
+.row{
+    border: 3px;
+    border-color: black;
+    border-radius: solid;
+}
+.col{
+    border: 3px;
+    border-color: blue;
+    border-radius: solid;
+}  */
